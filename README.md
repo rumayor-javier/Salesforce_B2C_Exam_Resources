@@ -1,5 +1,5 @@
 # Salesforce_B2C_Exam_Resources
-Salesforce B2C preparation resources for certif
+Salesforce B2C preparation resources for certif (From Maxime Rebibo's LinkedIn Feed)
 
 Here is the most complete resources that I collected especially for you to be the most prepared for this Salesforce B2C Commerce Developer Certification exam !
 
