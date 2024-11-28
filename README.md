@@ -51,3 +51,9 @@ Filter by « B2C Commerce » Product on the left filter panel and enroll to the 
 - Client side JS: https://bit.ly/3vUqfi5
 
 Please note that client side JS is not part of the exam, but useful to know for your SFCC projects 🙂
+
+
+Example Public URL from Commerce Cloud:
+
+- https://bbbb-001.dx.commercecloud.salesforce.com/on/demandware.static/-/Library-Sites-SharedLibrary/default/MyFolder/test-image-base64.txt
+
